@@ -9,8 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Kingdom of Lydia 
 tagline:          'A Jekyll theme'
-description:      'A Game Developer and Technical Artist's blog. Visit my personal website at <a href="http://baixuanwang.com" target="_blank">Baixuan</a>
- Made by <a href="https://twitter.com/baixuanwang" target="_blank">@baixuanwang</a>.'
+description:      'A Game Developer and Technical Artist's blog. Visit my personal website at <a href="http://baixuanwang.com" target="_blank">Baixuan</a> Made by <a href="https://twitter.com/baixuanwang" target="_blank">@baixuanwang</a>.'
 url:              http://baixuanwang.com
 baseurl:          /
 
