@@ -3,13 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+Hello!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is an alternative of my personal website www.baixuanwang.com
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[wangbaixuan@hotmail.com](mailto:wangbaixuan@hotmail.com)
