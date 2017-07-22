@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
-Hello!
 
-### More Information
+<p class="message">
+  This is an alternative of my personal website www.baixuanwang.com
+</p>
 
-This is an alternative of my personal website www.baixuanwang.com
+My twitter is [@baixuanwang](https://twitter.com/baixuanwang).
 
 ### Contact me
 
