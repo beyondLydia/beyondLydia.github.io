@@ -1,7 +1,18 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1> Little Lydia's Github Page </h1>
-<p> This is an alternative of my personal website www.baixuanwang.com, since right now I couldn't visit it myself by using the hotel's network. </p>
-</body>
-</html>
+---
+layout: default
+---
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
