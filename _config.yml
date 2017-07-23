@@ -8,13 +8,13 @@ permalink:        pretty
 # Setup
 title:            Kingdom of Lydia
 tagline:          'blog'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'A technical blog by <a href="http://baixuanwang.com" target="_blank">Baixuan Wang</a>.'
 url:              http://blog.baixuanwang.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Baixuan Wang'
+  url:            https://twitter.com/baixuanwang
 
 paginate:         5
 
