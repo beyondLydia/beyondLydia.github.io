@@ -3,7 +3,10 @@ layout: post
 title: js scripting in photoshop cs6
 ---
 
-因为需要批量处理dds文件，开始学习写ps中的脚本文件.jsx，本质上是JavaScript，编辑器可以用sublime，也可以用Adobe ExtendScript Toolkit CS6，后者据说是可以直连ps cs6调试，但目前为止没出现这个美好的效果，程序里调试也无效，会提示报错，所以我目前是前往ps中的菜单-文件-浏览，手动选择所要运行的脚本。
+<div class="message">
+  因为需要批量处理dds文件，开始学习写ps中的脚本文件.jsx，本质上是JavaScript，编辑器可以用sublime，也可以用Adobe ExtendScript Toolkit CS6，后者据说是可以直连ps cs6调试，但目前为止没出现这个美好的效果，程序里调试也无效，会提示报错，所以我目前是前往ps中的菜单-文件-浏览，手动选择所要运行的脚本。
+</div>
+
 
 【在中文版ps中获取通道的方法】
 //通过调用[channels]对象的[getByName]方法，获得当前图像的红色通道。
