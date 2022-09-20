@@ -1,3 +1,10 @@
+---
+layout: post
+title: 【翻译】如何进行职业规划1
+---
+
+<div class="message">
+
 Source/原文链接：https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html
 
 This is a post about something I’ve been wanting to write about forever: careers. Society tells us a lot of things about what we should want in a career and what the possibilities are—which is weird because I’m pretty sure society knows very little about any of this. When it comes to careers, society is like your great uncle who traps you at holidays and goes on a 15-minute mostly incoherent unsolicited advice monologue, and you tune out almost the whole time because it’s super clear he has very little idea what he’s talking about and that everything he says is like 45 years outdated. Society is like that great uncle, and conventional wisdom is like his rant. Except in this case, instead of tuning it out, we pay rapt attention to every word, and then we make major career decisions based on what he says. Kind of a weird thing for us to do.
@@ -444,3 +451,5 @@ The answers to all of these questions lie somewhere on the tentacles of your Yea
 You’ll also come to understand which of your inner yearnings seem to speak the loudest in your mind and carry the most pull in your decision-making processes. Pretty quickly, a yearning hierarchy will begin to reveal itself. You’ll identify yearnings that speak loudly and get their way; yearnings that cry at the top of their lungs but get continually elbowed out of the way by higher-prioritized parts of the octopus; yearnings that seem resigned to their low-status positions in the hierarchy.
 
 你还将了解内心的哪些渴望似乎在你的脑海中表达得最响亮，并在决策过程中发挥最大的作用。很快，一种向往的阶层顺序将会展现出来。你会发现那些大声说话并如愿以偿的渴望；渴望在他们的肺顶部哭泣，但不断被章鱼中优先级更高的部分推开；似乎已经服从了自己在等级制度中地位低下的状态。
+  
+</div>
